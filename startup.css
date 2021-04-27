@@ -1,0 +1,44 @@
+body, html {
+    width: 100%;
+    height: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: url(dream.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+h1 {
+    font-size:3rem;
+    color: #5194e6;
+    
+
+}
+
+.btn {
+    padding: 15px 20px;
+    border-radius: 300px;
+    text-transform: uppercase;
+    
+}
+
+.btn-primary {
+    background-color: coral;
+    border: coral;
+}
+
+.btn-primary:hover {
+    background-color: rgb(233, 92, 40);
+    border: coral;
+    border-width: 3px;
+}
+
+hr {
+    width: 60px;
+    color: rgb(243, 70, 7);
+    padding-top: 3px;
+    margin: 10px auto 25px auto;
+    border: 10px solid 243, 70, 7;
+}
+
+.buffer {
+    height: 50px;
+}
